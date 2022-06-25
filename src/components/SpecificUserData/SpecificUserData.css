@@ -1,0 +1,68 @@
+/* .inputStyle {
+    border: 2px solid black;
+    border-radius: 2px;
+} */
+.input {
+
+    background: transparent;
+    font-weight: 600;
+    text-align: center;
+    padding: 5px;
+}
+
+.tableBody input[type='checkbox'] {
+    cursor: pointer;
+}
+
+/* .tableBody tr td {
+    font-size: 70%;
+} */
+
+.preInputStyle {
+    border: none;
+    /* background: transparent;
+    font-weight: 600;
+    text-align: center;
+    padding: 8px; */
+}
+
+.deleteBtn {
+    color: red;
+    cursor: pointer;
+}
+
+.editBtn {
+    margin-left: 2rem;
+    cursor: pointer;
+}
+
+.postInputStyle {
+    border: 1px solid rgba(0, 0, 0, 0.47);
+    border-radius: 10px;
+    color: brown;
+    /* background: transparent;
+    font-weight: 600;
+    text-align: center;
+    padding: 8px; */
+}
+
+.saveBtn {
+    color: green;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+}
+
+/* .tableBody tr td input {
+    border: none;
+    background: transparent;
+    font-weight: 600;
+    text-align: center;
+    padding: 8px;
+} */
+
+
+
+/* .tableBody tr td {
+    text-align: center;
+} */
